@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayoub CHOUQFI
 
-<!--
-**achouqfi/achouqfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who loves building scalable SaaS platforms, automating workflows, and integrating AI to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🧠 Build AI-powered tools using modern frameworks
+- 🔧 Automate business workflows with powerful APIs
+- 🖥️ Develop full-featured SaaS platforms using Laravel + Vue/React
+- 📲 Create mobile apps with React Native & Firebase
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** Laravel · Python (FastAPI, Django) · Go (Fiber)
+- **Frontend:** Vue 3 · React · Next.js · Tailwind CSS
+- **Mobile:** React Native (cross-platform apps)
+- **Database:** MySQL · PostgreSQL · Redis
+- **AI & Automation:** LangChain · Webhooks
+- **Cloud & DevOps:** Docker · DigitalOcean · Cloudflare
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayoubchouqfi)
+
+---
+
+## ❤️ Fun Facts
+
+- I love building tools that run themselves.
+- I prefer backend logic over frontend flash.
+- I’m always exploring how AI can make life smarter and workflows smoother.
+
+---
+
+> _"Code is poetry. Automate the boring. Build the extraordinary."_
