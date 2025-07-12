@@ -19,8 +19,6 @@ I'm a full-stack developer who loves building scalable SaaS platforms, automatin
 - **Frontend:** Vue 3 · React · Next.js · Tailwind CSS
 - **Mobile:** React Native (cross-platform apps)
 - **Database:** MySQL · PostgreSQL · Redis
-- **AI & Automation:** LangChain · Webhooks
-- **Cloud & DevOps:** Docker · DigitalOcean · Cloudflare
 
 ---
 
