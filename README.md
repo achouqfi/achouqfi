@@ -26,14 +26,3 @@ I'm a full-stack developer who loves building scalable SaaS platforms, automatin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayoubchouqfi)
 
----
-
-## ❤️ Fun Facts
-
-- I love building tools that run themselves.
-- I prefer backend logic over frontend flash.
-- I’m always exploring how AI can make life smarter and workflows smoother.
-
----
-
-> _"Code is poetry. Automate the boring. Build the extraordinary."_
